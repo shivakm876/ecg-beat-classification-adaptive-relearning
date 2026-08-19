@@ -537,8 +537,7 @@ Validation / promotion gate
 
 Active-model external inference
 
----
-db
+
 
 ## 10. Notes
 
