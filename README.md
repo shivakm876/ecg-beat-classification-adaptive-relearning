@@ -534,4 +534,4 @@ Active-model external inference
 
 ## 10. Notes
 
-This project was developed and evaluated in Google Colab as an internship take-home assignment. The notebook contains the end-to-end implementation and the outputs used for the reported evaluation results.
+This project was developed and evaluated in Google Colab . The notebook contains the end-to-end implementation and the outputs used for the reported evaluation results.
