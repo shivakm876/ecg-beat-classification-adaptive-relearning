@@ -261,7 +261,14 @@ from google.colab import drive
 
 
 drive.mount('/content/drive')
-4.3 Install WFDB
+### 4.3 Install Dependencies
+
+The required Python packages are listed in `requirements.txt`.
+
+Install them with:
+
+```bash
+pip install -r requirements.txt
 
 Run:
 
@@ -531,6 +538,7 @@ Validation / promotion gate
 Active-model external inference
 
 ---
+db
 
 ## 10. Notes
 
